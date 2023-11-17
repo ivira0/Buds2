@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212683742307",
+    "project_id": "buds-252ec",
+    "storage_bucket": "buds-252ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212683742307:android:80a40d90e62d5eac55ac56",
+        "android_client_info": {
+          "package_name": "com.example.buds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9bH59ehp7cg8_ODW14gbI-GfRgsOnTKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
